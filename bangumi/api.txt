@@ -70,7 +70,7 @@
 注意，source现在是必选项了，而且有一些条目需要强制 source 是 onAir，下面会有说明。
 
 2.获取认证：
-[POST] /auth
+[POST] /auth?source={$APP_NAME}
 	[POST信息]
 	password: 密码
 	username: 用户名
