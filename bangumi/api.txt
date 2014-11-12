@@ -75,9 +75,9 @@
 	password: 密码
 	username: 用户名
 	(opt) source: {$APP_NAME}
-	auth: 0
-	sysuid: 0
-	sysusername: 0
+	(opt) auth: 0
+	(opt) sysuid: 0
+	(opt) sysusername: 0
 	
 	[返回信息]
 	格式：JSON
