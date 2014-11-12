@@ -84,7 +84,7 @@
 	{
 		id: 用户UID
 		url: 用户空间URL
-		username: 还是用户UID（尼玛
+		username: 用户ID
 		nickname: 用户昵称
 		avatar:{
 			large: 头像、大
