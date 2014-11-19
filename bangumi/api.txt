@@ -309,6 +309,7 @@
 	}
 	
 6. 获取收藏信息
+!(需要认证信息
 [GET] /collection/{$ID}?source=onAir
 	{$ID} = 番组ID
 	{$APP_NAME} = onAir ！注意此处必须使用onAir否则会返回 Unauthorized 错误！
